@@ -1,12 +1,12 @@
 enable-magisk-update = true
 
-parallel-jobs = 2
-cli-source = "revanced/revanced-cli"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
+rv-brand = "RVX-anddea"
 
 [YouTube]
 build-mode = "both"
-excluded-patches = "'Announcements'"
-included-patches = "'Change header'"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
 [Music]
