@@ -1,4 +1,4 @@
-# RVX-anddea
+# RV𝕏-anddea
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ReVanced_CI)
 [![CI](https://github.com/rjaakash/RVX-anddea/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/rjaakash/RVX-anddea/actions/workflows/ci.yml)
 
